@@ -41,7 +41,7 @@ and Timer from dart:async.
 ## DEMO
 
 ![Recording 2026-02-18 175459](https://github.com/user-attachments/assets/58923863-dab1-4202-848d-c7690b54226d)
-![Recording 2026-02-18 175459](https://github.com/user-attachments/assets/58923863-dab1-4202-848d-c7690b54226d)
+
 
 
 ---
